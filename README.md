@@ -14,9 +14,9 @@ Una aplicación móvil simple para gestionar tareas diarias, desarrollada con Io
 
 ## Instalación
 1. Clona este repositorio: `git clone https://github.com/rocendotejada/todo-list.git`
-2. Instala las dependencias: `npm install`
-3. Ejecuta la aplicación: `ionic serve`
+2. Entra al Directorio: `cd todo-list-ionic-angular`
+3. Instala las dependencias: `npm install`
+4. Ejecuta la aplicación: `ionic serve`
 
 ## Capturas de Pantalla
-![Captura 1](./screenshots/screenshot1.png)
-![Captura 2](./screenshots/screenshot2.png)
+
